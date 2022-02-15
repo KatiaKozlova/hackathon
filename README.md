@@ -5,3 +5,4 @@
 * [Никита](https://colab.research.google.com/drive/1AhTvxDFAMRrIw9bP5xPnjQ27ioGe87Op#scrollTo=NIxFU6Z8nA10)
 * [Катя](https://colab.research.google.com/drive/15kI7laIt_ITtKnEtuFPILjoGGwsmbcxA?usp=sharing)
 * [Даша](https://drive.google.com/file/d/1ghW-E-3t8Nmm69_MrsB3oop8KmVAIRd8/view?usp=sharing) (открывать только в Jupiter Notebook: File ➡️ Trusted Notebook)
+### [Ссылки на презентацию](https://docs.google.com/presentation/d/1n35QLPyKHfr1QR7TYsZMklDhnfjwDbkvHBETut6xX7A/edit?usp=sharing)
